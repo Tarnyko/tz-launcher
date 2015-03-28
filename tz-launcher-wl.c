@@ -1,6 +1,7 @@
 /* Copyright © 2014 Manuel Bachmann */
 
 #include <stdlib.h>
+#include <string.h>
 #include <unistd.h>
 #include <sys/wait.h>
 #include <pwd.h>
